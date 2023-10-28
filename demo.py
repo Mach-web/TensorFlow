@@ -14,3 +14,8 @@ print("Original Mean:", mean, " New Mean:", mean_c)
 
 print(__name__)
 print(uf.__name__)
+
+import math
+print(f"The factorial of 7 is: {math.factorial(7)}")
+result = math.exp(3)
+print("The exponent of 3 is: {}".format(result))
