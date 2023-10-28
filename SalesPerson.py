@@ -123,7 +123,7 @@ def check_results():
     assert round(salesperson.calculate_sales(),2) == 47.36
     assert round(salesperson.calculate_commission(.1),2) == 4.74
     
-    print('Great job, you made it to the end of the code checks!')
+    print('Great job, you made it to the end of the code checks!!')
     
 check_results()
 

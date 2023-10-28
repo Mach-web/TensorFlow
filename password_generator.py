@@ -1,3 +1,8 @@
+import multiprocessing as mp
+print(mp.cpu_count())
+import os
+print(os.listdir())
+
 # TODO: First import the `random` module
 import random
 # We begin with an empty `word_list`

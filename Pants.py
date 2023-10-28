@@ -47,6 +47,6 @@ def check_results():
     
     assert pants.discount(.1) == 9
     
-    print('You made it to the end of the check. Nice job!')
+    print('You made it to the end of the check. Nice job!!')
 
 check_results()
